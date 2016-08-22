@@ -49,3 +49,10 @@
 
 ### Groovy Podcast - GR8Conf US 2016
 * [YouTube](https://www.youtube.com/watch?v=MWRWnKfbnIs)
+
+## Beer Recipes
+* [Coffee Stout](https://www.brewtoad.com/recipes/gr8conf-coffee-stout)
+* [IPA](https://www.brewtoad.com/recipes/gr8conf-ipa)
+* [Cucumber Saison](https://www.brewtoad.com/recipes/gr8conf-cucumber-saison)
+* [Scotch Ale](https://www.brewtoad.com/recipes/gr8conf-scotch-ale)
+* [Lambic](https://www.brewtoad.com/recipes/gr8conf-lambic)
