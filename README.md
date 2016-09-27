@@ -47,6 +47,11 @@
 * [Codenarc Revisited](https://github.com/GR8conf/GR8ConfUS2016/blob/master/presentations/Codenarc%20Revisited/CodenarcRevisitedGr8ConfUS2016.pdf)
 * [A Test Driven Approach to Documenting RESTful APIs with Spring REST Docs](https://github.com/GR8conf/GR8ConfUS2016/blob/master/presentations/A%20Test%20Driven%20Approach%20to%20Documenting%20RESTful%20APIs%20with%20Spring%20REST%20Docs/TestDrivenDocumentationGr8ConfUS2016%20.pdf)
 
+### Puneet Behl
+* [Groovy for Java Developers](https://github.com/GR8conf/GR8ConfUS2016/raw/master/presentations/Groovy%20for%20Java%20Developers/Groovy%20For%20Java%20Developers.pdf)
+* [Giving Back to Grails Community - Migrating plugins to Grails 3](https://github.com/GR8conf/GR8ConfUS2016/raw/master/presentations/Giving%20Back%20to%20Grails%20Community%20by%20Migrating%20Plugins%20to%20Grails%203/Giving%20Back%20to%20the%20Community%20-%20Migrating%20Plugins%20to%20Grails%203.x.pdf)
+* [Dockerize it all](https://github.com/GR8conf/GR8ConfUS2016/raw/master/presentations/Dockerize%20it%20all/Dockerize%20It%20All.pdf)
+
 ### Groovy Podcast - GR8Conf US 2016
 * [YouTube](https://www.youtube.com/watch?v=MWRWnKfbnIs)
 
