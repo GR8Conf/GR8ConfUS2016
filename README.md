@@ -36,7 +36,7 @@
 * [An Introduction to JOOQ - Demo](https://github.com/spember/jooq-demo)
 
 ###  Andrew Reitz
-* [Testing Gradle Plugins](https://pieces029.github.io/gr8conf-us-testing-gradle-plugins)
+* [Testing Gradle Plugins](https://andrewreitz.github.io/gr8conf-us-testing-gradle-plugins)
 
 ### Alvaro Sanchez
 * [Mastering Grails 3 Plugins](http://www.slideshare.net/alvarosanchezmariscal/mastering-grails-3-plugins-gr8conf-us-2016)
